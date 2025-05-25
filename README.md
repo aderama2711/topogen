@@ -22,6 +22,6 @@ options:
 ```
 
 ## Results
-![alt text](https://github.com/aderama2711/topogen/topology.jpg?raw=true)
+![alt text](https://github.com/aderama2711/topogen/blob/main/topology.jpg)
 topology.txt is configuration for mininet or mini-ndn
 and prod-cons.txt is list of possible pair for producer and consumer placement
