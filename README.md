@@ -21,3 +21,7 @@ options:
   --std_dev STD_DEV  Standard deviation for delay and link generation
 ```
 
+## Results
+![alt text](https://github.com/aderama2711/topogen/topology.jpg?raw=true)
+topology.txt is configuration for mininet or mini-ndn
+and prod-cons.txt is list of possible pair for producer and consumer placement
