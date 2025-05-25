@@ -1,0 +1,32 @@
+Non-directly connected node pairs with hop count >= 3:
+
+r1 - r6 : 3 hops
+r1 - r11 : 3 hops
+r1 - r12 : 3 hops
+r1 - r14 : 3 hops
+r1 - r13 : 3 hops
+r8 - r10 : 3 hops
+r8 - r6 : 3 hops
+r8 - r11 : 3 hops
+r8 - r14 : 3 hops
+r8 - r13 : 3 hops
+r3 - r11 : 3 hops
+r3 - r14 : 3 hops
+r10 - r12 : 3 hops
+r6 - r4 : 3 hops
+r6 - r5 : 3 hops
+r6 - r11 : 4 hops
+r6 - r12 : 3 hops
+r6 - r9 : 3 hops
+r6 - r14 : 4 hops
+r6 - r13 : 3 hops
+r6 - r15 : 3 hops
+r4 - r9 : 3 hops
+r4 - r14 : 3 hops
+r5 - r12 : 3 hops
+r11 - r12 : 3 hops
+r11 - r9 : 3 hops
+r7 - r13 : 3 hops
+r12 - r9 : 3 hops
+r12 - r14 : 3 hops
+r12 - r13 : 4 hops
